@@ -1,0 +1,4 @@
+bg-helper
+click>=6.0
+input-helper
+settings-helper
